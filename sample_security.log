@@ -1,0 +1,6 @@
+2026-01-12 10:11:20 192.168.1.10 sshd[1251]: Failed password for root from 192.168.1.10 port 55322 ssh2
+2026-01-12 10:12:11 192.168.1.10 sshd[1252]: Failed password for admin from 192.168.1.10 port 55323 ssh2
+2026-01-12 10:13:00 10.0.0.8 nginx: GET /index.php?id=1%20UNION%20SELECT%20password%20FROM%20users HTTP/1.1
+2026-01-12 10:13:33 10.0.0.8 nginx: GET /search?q=<script>alert(1)</script> HTTP/1.1
+2026-01-12 10:14:17 172.16.0.77 apache: User-Agent: sqlmap/1.7
+2026-01-12 10:15:48 172.16.0.77 kernel: possible port scan detected (SYN scan)
